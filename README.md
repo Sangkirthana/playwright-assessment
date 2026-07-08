@@ -18,6 +18,13 @@ npx playwright show-report
 
 # Playwright Assessment for API Automation
 
+## Run API Test
+
+npx playwright test tests/api
+
+## Generate Report
+
+npx playwright show-report
 
 ## Overview
 
